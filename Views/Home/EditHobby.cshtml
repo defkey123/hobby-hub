@@ -1,0 +1,18 @@
+@model Hobby
+<h1 class="split">Edit your Hobby!</h1>
+<a href="home" class="split"><button>Home</button></a>
+<form asp-action="PostEditHobby" asp-controller="Home" method="post">
+    <br>
+    <span asp-validation-for="Name"></span>
+    <br>
+    <label asp-for="Name"></label>
+    <input asp-for="Name" value="@Model.Name">
+    <br>
+    <span asp-validation-for="Description"></span>
+    <br>
+    <label asp-for="Description"></label>
+    <input asp-for="Description" value="@Model.Description">
+    <br>
+
+    <input value="Apply Edits" type="submit">
+</form>

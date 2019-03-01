@@ -1,0 +1,16 @@
+@model HobbyJoined
+<form asp-action="JoinHobby" asp-controller="Home" method="post">
+    <span asp-validation-for="Proficiency"></span>
+    <br>
+    <label asp-for="Proficiency"></label>
+    <select asp-for="Proficiency">
+        <option>Novice</option>
+        <option>Intermediate</option>
+        <option>Expert</option>
+    </select>
+    <br>
+    <input asp-for="HobbyId" type="hidden">
+    <input asp-for="UserId" type="hidden">
+    <br>
+    <button>Add to Hobbies</button>
+</form>

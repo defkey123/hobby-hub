@@ -1,0 +1,27 @@
+@model ViewHobby
+<h1 class="split">Hobby Hub</h1>
+<h4 class="split">Welcome, @Model.CurrentUser.FirstName</h1>
+<a href="/logout" class="split"><button>Logout</button></a>
+<a href="/home" class="split"><button>Home</button></a>
+<hr>
+<h1>@Model.Hobby.Name</h1>
+<h4>Description: @Model.Hobby.Description</h4>
+<a href="edit/@Model.Hobby.HobbyId"><button>Edit Hobby</button></a>
+<br>
+<h4>Enthusiasts:</h4>
+@{
+    bool alreadyJoined = false;
+
+    foreach (var u in @Model.Hobby.UsersJoined.OrderByDescending(b => b.User.CreatedAt).ToList())
+    {
+        if (@u.User.UserId == @Model.CurrentUser.UserId)
+        {
+            alreadyJoined = true;
+        }
+        <h5>@u.User.FirstName @u.User.LastName - @u.Proficiency</h5>
+    }
+    if (!alreadyJoined)
+    {
+        <partial name="AddToHobbies" model="@Model.HobbyJoined"></partial>
+    }
+}

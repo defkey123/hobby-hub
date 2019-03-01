@@ -1,0 +1,47 @@
+@model Dashboard
+    <head>
+        <title>Hobbies</title>
+    </head>
+<h1 class="split">Hobbies</h1>
+<h4 class="split">Hi @Model.CurrentUser.FirstName !</h1>
+<a href="logout" class="split"><button>Logout</button></a>
+<hr>
+<table class="table">
+    <tr>
+        <td>Hobby</td>
+        <td>Enthusiasts</td>
+    </tr>
+@{
+    foreach(Hobby h in @Model.Hobbies)
+    {
+    <tr>
+        <td><a href="hobby/@h.HobbyId">@h.Name</a></td>
+        @if(@h.UsersJoined.Count > 0)
+        {
+            <td>@h.UsersJoined.Count</td>
+        }
+        else 
+        {
+            <td>0</td>
+        }
+    </tr>
+    }
+}
+</table>
+<a href="new"><button>New Hobby</button></a>
+<br>
+<h4>Top Novice:</h4>
+@foreach (var n in Model.TopNovice)
+{
+    <h5>@n.Name</h5>
+}
+<h4>Top Intermediate:</h4>
+@foreach (var n in Model.TopIntermediate)
+{
+    <h5>@n.Name</h5>
+}
+<h4>Top Expert:</h4>
+@foreach (var n in Model.TopExpert)
+{
+    <h5>@n.Name</h5>
+}
