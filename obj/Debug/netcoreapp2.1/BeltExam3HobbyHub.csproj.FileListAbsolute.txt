@@ -1,34 +1,68 @@
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.csprojAssemblyReference.cache
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.csproj.CoreCompileInputs.cache
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.RazorAssemblyInfo.cache
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.RazorAssemblyInfo.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.AssemblyInfoInputs.cache
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.AssemblyInfo.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.TagHelpers.input.cache
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.TagHelpers.output.cache
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.RazorCoreGenerate.cache
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Home\LoginReg.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.RazorTargetAssemblyInfo.cache
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.RazorTargetAssemblyInfo.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.dll
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.pdb
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\bin\Debug\netcoreapp2.1\BeltExam3HobbyHub.deps.json
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\bin\Debug\netcoreapp2.1\BeltExam3HobbyHub.runtimeconfig.json
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\bin\Debug\netcoreapp2.1\BeltExam3HobbyHub.runtimeconfig.dev.json
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\bin\Debug\netcoreapp2.1\BeltExam3HobbyHub.dll
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\bin\Debug\netcoreapp2.1\BeltExam3HobbyHub.pdb
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\bin\Debug\netcoreapp2.1\BeltExam3HobbyHub.Views.dll
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\bin\Debug\netcoreapp2.1\BeltExam3HobbyHub.Views.pdb
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.Views.pdb
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\BeltExam3HobbyHub.csproj.CopyComplete
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Home\Hobbies.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Home\NewHobby.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewHobby.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddToHobbies.g.cshtml.cs
-C:\Users\Valentin\Desktop\Coding Dojo\C#Stack\BeltExam3HobbyHub\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditHobby.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.csprojAssemblyReference.cache
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.csproj.CoreCompileInputs.cache
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorAssemblyInfo.cache
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorAssemblyInfo.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.AssemblyInfoInputs.cache
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.AssemblyInfo.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.TagHelpers.input.cache
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.TagHelpers.output.cache
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorCoreGenerate.cache
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Home/Login.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Home/LoginReg.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Home/Register.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorTargetAssemblyInfo.cache
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorTargetAssemblyInfo.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.dll
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.pdb
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.deps.json
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.runtimeconfig.json
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.runtimeconfig.dev.json
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.dll
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.pdb
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.Views.dll
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.Views.pdb
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.Views.pdb
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.csproj.CopyComplete
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Home/Hobbies.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Home/NewHobby.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Home/ViewHobby.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Home/AddToHobbies.g.cshtml.cs
+C:/Users/Valentin/Desktop/Coding Dojo/C#Stack/BeltExam3HobbyHub/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditHobby.g.cshtml.cs
+/var/www/hobby-hub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.deps.json
+/var/www/hobby-hub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.runtimeconfig.json
+/var/www/hobby-hub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.runtimeconfig.dev.json
+/var/www/hobby-hub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.dll
+/var/www/hobby-hub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.pdb
+/var/www/hobby-hub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.Views.dll
+/var/www/hobby-hub/bin/Debug/netcoreapp2.1/BeltExam3HobbyHub.Views.pdb
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.csprojAssemblyReference.cache
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.csproj.CoreCompileInputs.cache
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorAssemblyInfo.cache
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorAssemblyInfo.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.AssemblyInfoInputs.cache
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.AssemblyInfo.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.TagHelpers.input.cache
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.TagHelpers.output.cache
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorCoreGenerate.cache
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Home/AddToHobbies.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Home/EditHobby.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Home/Hobbies.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Home/Login.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Home/LoginReg.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Home/NewHobby.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Home/Register.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Home/ViewHobby.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorTargetAssemblyInfo.cache
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.RazorTargetAssemblyInfo.cs
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.Views.pdb
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.dll
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.pdb
+/var/www/hobby-hub/obj/Debug/netcoreapp2.1/BeltExam3HobbyHub.csproj.CopyComplete
